@@ -197,7 +197,7 @@
                 </div>
 
                 <div class="d-grid gap-2">
-                    <button type="submit" class="btn btn-danger">Daftar Sekarang</button>
+                  <a href="dashboard.php" class="btn btn-primary">Daftar Sekarang</a>
                 </div>
 
                 <div class="text-center mt-4">
