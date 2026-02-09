@@ -54,8 +54,7 @@
     </nav>
 
     <div class="main-container">
-        <a href="#" class="back-link"><i class="bi bi-arrow-left me-1"></i> Kembali ke Daftar Pusat Donor</a>
-
+       <a href="dashboard.php" class="back-link"><i class="bi bi-arrow-left me-1"></i> Kembali ke Daftar Pusat Donor</a>
         <div class="card card-custom p-4">
             <h4 class="fw-bold mb-1">Bank Darah Rumah Sakit Pusat</h4>
             <p class="text-muted small mb-0">Jl. Sudirman No. 123, Jakarta, DKI Jakarta 10210</p>
